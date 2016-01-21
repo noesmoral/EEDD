@@ -1,0 +1,1 @@
+Esta practica trata de simular mediante un ejemplo el uso de arboles binarios de busqueda para las EEDD, en la MemoriaPECL3 se encuentra toda la informacion necesaria.

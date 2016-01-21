@@ -1,0 +1,1 @@
+Esta practica trata de simular mediante un ejemplo el uso de listas para las EEDD, en la MemoriaPECL2 se encuentra toda la informacion necesaria.

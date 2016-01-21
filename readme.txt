@@ -1,0 +1,1 @@
+En las correspondentes carpetas se encuentras las practicas de la asignatura de EEDD de GIC de la UAH.

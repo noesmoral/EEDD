@@ -1,0 +1,1 @@
+Esta practica trata de simular mediante un ejemplo el uso de colas para las EEDD, en la MemoriaPECL1 se encuentra toda la informacion necesaria.
